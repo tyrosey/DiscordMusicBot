@@ -1,0 +1,79 @@
+Here is my full list of current commands, what they do, and how to use them.
+
+
+***ALL COMMANDS MUST BEGIN WITH A "%" AS THE PREFIX***
+
+
+
+***%commands*** - lists all current commands and info.
+Ex: "%commands"
+
+
+***%joke*** - bot will tell a joke.
+Ex: "%joke"
+
+
+***%roast*** - will roast the pinged user. The bot cannot roast itself.
+Ex: "%roast @someone".
+
+
+***%customRoast*** - will *anonymously* roast a pinged user with a custom roast that you create. Do not forget the semicolon between the target and the roast.
+Ex: "%customRoast @someone ; you are a silly goose haha"
+
+
+***%mock*** - will mock the last message sent by the pinged user. 
+Ex: "%mock @someone"
+
+
+
+***MUSIC COMMANDS BELOW:*** __***YOU MUST BE IN A VOICE CHANNEL FOR THESE TO WORK***__
+
+
+***%play*** - bot will begin playing the requested song. 
+Ex: "%play Rats by Ghost"
+EX: "%play https://www.youtube.com/watch?v=xvFZjo5PgG0"
+
+
+***%pause*** - will pause the current playing song.
+Ex: "%pause"
+
+
+***%resume*** - will resume playing the curently paused song.
+Ex: "%resume"
+
+
+***%skip*** - will skip to the next song in the queue.
+Ex: "%skip"
+
+
+***%now*** - will display info about the current playing song.
+Ex: "%now"
+
+
+***%queue*** - will list all songs in the queue.
+Ex: "%queue"
+
+
+***%add*** - song will be added to the queue.
+Ex: "%add Rats by Ghost"
+
+
+***%remove*** - will remove a specific song from the queue (based on the number in the queue list).
+Ex: "%remove 2"
+
+
+***%shuffle*** - will shuffle the song order of the queue.
+Ex: "%shuffle"
+
+
+***%empty*** - will clear the queue.
+Ex: "%empty"
+
+
+***%leave*** - bot will leave the voce channel it is currently in.
+Ex: "%leave".
+
+
+
+
+If you have any ideas for other commands you'd like me to have, let my creator know!
